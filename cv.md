@@ -1,10 +1,10 @@
 # Maryna Sukhadolava
 
 ## Contacts 
-* **Location**: Minsk, Belarus
-* **Phone**: +375 29 134-40-41
-* **Email**: kryvetskistud@gmail.com
-* **GitHub**: kryvetski-andrei
+* **Location**: Vitebsk, Belarus
+* **Phone**: +375 33 390 11 15
+* **Email**: maryna.sukhadolava@mail.com
+* **GitHub**: marywax
 ## About me
 I am a student of Vitebsk State University.  I have a great desire to learn and develop my skills in web development.
 ## Skills
