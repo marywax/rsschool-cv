@@ -6,7 +6,7 @@
 * **Email**: kryvetskistud@gmail.com
 * **GitHub**: kryvetski-andrei
 ## About me
-
+I am a student of Vitebsk State University.  I have a great desire to learn and develop my skills in web development.
 ## Skills
 * HTML
 * CSS
